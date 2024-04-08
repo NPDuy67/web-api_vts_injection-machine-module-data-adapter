@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "InjectionMoldingMachineDataAdapter": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
